@@ -1,4 +1,4 @@
-<h1 align="center">I'm Omer Tzroya</h1>
+<h1 align="center">Omer Tzroya</h1>
 <h3 align="center">Software developer </h3>
 
 - 🔭I'm like to develop **Apps & Websites**
