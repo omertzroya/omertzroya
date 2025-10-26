@@ -1,5 +1,5 @@
 <h1 align="center">Omer Tzroya</h1>
-<h3 align="center">Software developer </h3>
+
 
 - 🔭I'm like to develop **Apps & Websites**
 
